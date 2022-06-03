@@ -1,0 +1,150 @@
+body{
+    margin: 0;
+    background-color: #001b3a;
+}
+.upper{
+    height: 100px;
+    width: auto;
+    margin: 0;
+}
+.uppertext{
+    margin: 0;
+    word-spacing: 40px;
+    margin-left: 800px;
+    padding: 34px;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    font-family: 'Roboto Serif', serif;
+    font-size: medium;
+    color: #8893b0;
+
+}
+.middletext{
+    color:#64ffda;
+    margin-left: 200px;
+    font-size: 500%;
+    margin-top: 40px;
+}
+.middletext2{
+    color:#ccd6f6;
+    margin-left: 200px;
+    font-size: 500%;
+    margin-top: 25px;
+
+}
+.middletext3{
+    color:#ccd6f6;
+    margin-left: 200px;
+    font-size: 130%;
+    margin-top: 25px;
+    width: 44%;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    font-family: 'Roboto Serif', serif;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.img1{
+    height:60px;
+    width: 60px;
+    float: left;
+    margin-left: 16px;
+    margin-top: 14px;
+}
+
+
+.sidemiddle{
+    height: 10px;
+    width: 100px;
+    cursor: grab;
+    
+
+}
+.second{
+    font-size: 170%;
+    margin: 200px;
+}
+.sectext{
+    width: 60%;
+}
+.img{
+    height: 300px;
+    width: 300px;
+    float: right;
+    cursor: pointer;
+    border-radius: 100%;
+
+}
+.third{
+    font-size: 170%;
+    margin: 250px;
+}
+.thirdtext{
+    width: 60%;
+}
+.fourth{
+    font-size: 170%;
+    margin: 200px;
+}
+/* .img:hover{
+} */
+.recipes,.con{
+    height: 15%;
+    background-color: #64ffda;
+    font-size: 20px;
+    width: 29%;
+    text-align: center;
+    justify-content: center;
+}
+.fifth{
+
+    font-size: 150%;
+    text-align:center;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    font-family: 'Roboto Serif', serif;
+    font-family: 'Source Sans Pro', sans-serif;
+
+}
+.ff{
+    font-size: 300%;
+    text-align: center;
+
+}
+.ffn{
+    width: 45%;
+    text-align: center;
+    margin-left: 400px;
+}
+.box {
+    background:#001b3a;
+    color: #64FFDA;
+    font-size: 20px;
+    font-weight: 100;
+    padding: 15px 30px 15px 30px ;
+    border: solid #64ffda 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin-left: 650px;
+    margin-top: 80px;
+    height: 50%;
+
+}
+a:link{
+    text-decoration: none;
+}
+
+.box:hover {
+    border: solid #64ffda 1px;
+    background: #028365;
+    border-radius: 20px;
+    text-decoration: none;
+}
+.six{
+    margin-top: 200px;
+    margin-left: 600px;
+    color: #ccd6f6;
+
+}
